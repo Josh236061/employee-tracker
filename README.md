@@ -52,6 +52,9 @@ Mock-Up
 
 ## Screenshot(s)
 
+<img width="691" alt="EMS_schema" src="https://user-images.githubusercontent.com/71394743/199388912-8f49ed09-68e9-427a-8b88-9ff9a9e888a3.png">
+
+
 ## URL(s)
 
 Github Repo URL:
