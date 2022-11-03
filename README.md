@@ -57,6 +57,6 @@ Mock-Up
 
 ## URL(s)
 
-Github Repo URL:
+Github Repo URL: https://github.com/Josh236061/employee-tracker
 
-Walkthrough Video Link:
+Walkthrough Video Link: https://drive.google.com/file/d/1uJcuk0Yud8609bXZOHEURHNPEP_5dFX6/view?usp=share_link
