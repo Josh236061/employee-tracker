@@ -1,5 +1,4 @@
-
-// switch cases with inquirer, if they run this option ask these questions
+// inquirer switch case
 
 const start = require("./db/index.js")
 const runSearch = require("./db/index.js");
