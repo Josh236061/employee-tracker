@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/Josh236061/employee-tracker/issues"
   },
-  "homepage": "",
+  "homepage": "https://github.com/Josh236061/employee-tracker#readme",
   "dependencies": {
     "console.table": "^0.10.0",
     "express": "^4.18.2",
